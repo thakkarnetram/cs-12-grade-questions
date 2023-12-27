@@ -3,5 +3,5 @@ project(C___Projects)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(C___Projects greatestOfTwoNumbers.cpp
+add_executable(C___Projects questions.cpp
 )
