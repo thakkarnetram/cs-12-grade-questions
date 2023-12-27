@@ -42,6 +42,11 @@ int nestedIfElseGreatestTwoNum() {
         } else {
             cout << " The greatest number is " << n3 << endl;
         }
+    } else {
+        if (n2 > n3)
+            cout << " The greatest number is " << n2 << endl;
+        else
+            cout << " The greatest number is " << n3 << endl;
     }
     return 0;
 }
@@ -64,6 +69,7 @@ int main() {
     cout << "Some Easy Questions xD" << endl;
     greatestOfTwoNumbers();
     multipleIfElseGreatestOfThreeNum();
+    nestedIfElseGreatestTwoNum();
     greatestOfThreeNumbers();
     return 0;
 }

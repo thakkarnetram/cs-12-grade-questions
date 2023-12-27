@@ -1,12 +1,8 @@
 # ninja log v5
-4	517	7253819334606969	CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj	984c52389d313b2b
-0	179	7253823562958114	build.ninja	76acae4d7436a22b
-463	576	7253818351159031	C___Projects.exe	cb2354f01ccb29f0
-4	436	7253819520922176	CMakeFiles/C___Projects.dir/greatestOfThreeNumbers.cpp.obj	209c24cc3b85afd1
-1	155	7253823562958114	build.ninja	e653834ea5a9e747
-3	456	7253823568113303	CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj	984c52389d313b2b
-457	557	7253823569067873	C___Projects.exe	cb2354f01ccb29f0
-4	449	7253824044127777	CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj	984c52389d313b2b
-449	551	7253824045113345	C___Projects.exe	cb2354f01ccb29f0
 3	434	7253824446858676	CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj	984c52389d313b2b
+1	155	7253837275351383	build.ninja	e653834ea5a9e747
 434	533	7253824447822810	C___Projects.exe	cb2354f01ccb29f0
+4	436	7253819520922176	CMakeFiles/C___Projects.dir/greatestOfThreeNumbers.cpp.obj	209c24cc3b85afd1
+0	168	7253837275351383	build.ninja	e653834ea5a9e747
+1	463	7253837280548856	CMakeFiles/C___Projects.dir/questions.cpp.obj	20c256a50670b466
+464	573	7253837281607961	C___Projects.exe	4c7c356b35dbfea

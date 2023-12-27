@@ -49,8 +49,8 @@ cmake_ninja_workdir = F$:/C++$ Projects/12Th$ C++/cmake-build-debug/
 
 build cmake_object_order_depends_target_C___Projects: phony || CMakeFiles/C___Projects.dir
 
-build CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj: CXX_COMPILER__C___Projects_unscanned_Debug F$:/C++$ Projects/12Th$ C++/greatestOfTwoNumbers.cpp || cmake_object_order_depends_target_C___Projects
-  DEP_FILE = CMakeFiles\C___Projects.dir\greatestOfTwoNumbers.cpp.obj.d
+build CMakeFiles/C___Projects.dir/questions.cpp.obj: CXX_COMPILER__C___Projects_unscanned_Debug F$:/C++$ Projects/12Th$ C++/questions.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles\C___Projects.dir\questions.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C___Projects.dir
   OBJECT_FILE_DIR = CMakeFiles\C___Projects.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj: CXX_COMPILER__C_
 #############################################
 # Link the executable C___Projects.exe
 
-build C___Projects.exe: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/greatestOfTwoNumbers.cpp.obj
+build C___Projects.exe: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/questions.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C___Projects.dir
