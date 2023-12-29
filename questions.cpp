@@ -206,10 +206,99 @@ int doWhileLoopQuestion() {
 // A program to print N Numbers
 int forLoopQuestion() {
     int x;
-    cin>>x;
+    cin >> x;
     for (int i = 0; i <= x; i++) {
-        cout<<i<<endl;
+        cout << i << endl;
     }
+    return 0;
+}
+
+//What will be the output of the following program
+int inTextQuestionOne() {
+    int i = 0, a = 0, b = 0, c = 0, f = 0;
+    while (i <= 5) {
+        switch (i++) {
+            case 1:
+            case 2:
+                cout << a << " A b4 " << endl;
+                ++a;
+                cout << a << " A af" << endl;
+                break;
+            case 3:
+            case 4:
+                cout << b << " B b4" << endl;
+                ++b;
+                cout << b << " B af" << endl;
+                break;
+            case 5:
+                ++c;
+                break;
+            default:
+                ++f;
+                break;
+        }
+    }
+    cout << a << " A " << endl;
+    cout << b << " B " << endl;
+    cout << c << " C " << endl;
+    cout << f << " F " << endl;
+    return 0;
+}
+
+// What will be the value of counter after the following program is executed
+int inTextQuestionTwo() {
+    int counter;
+    int digit = 0;
+    counter = 1;
+    while (digit <= 10) {
+        cout << "Counter Value Before Iterating is " << counter << endl;
+        ++counter;
+        cout << "Counter Value After Iterating is " << counter << endl;
+        cout << "Digit Value Before Iterating is " << digit << endl;
+        ++digit;
+        cout << "Digit Value After Iterating is " << digit << endl;
+    }
+    cout << "Counter Value is " << counter << endl;
+    return 0;
+}
+
+//What will be the value of sum after the following program is executed ?
+int inTextQuestionThree() {
+    int sum, i;
+    sum = 1;
+    i = 9;
+    do {
+        i -= 1;
+        sum *= 2;
+    } while (i > 9);
+    {
+        cout << sum << endl;
+    }
+    return 0;
+}
+
+// What will the following program do ?
+int inTextQuestionFour() {
+    int digit = 0;
+    do {
+        cout << "Digits " << digit++ << endl;
+    } while (digit <= 10);
+    {}
+    return 0;
+}
+
+// go to statement
+int goToStatementExample() {
+    int num = 1;
+    STEP:
+    do {
+        if (num == 6) {
+            num++;
+            goto STEP;
+        }
+        cout << "Value of Num " << num << endl;
+        num += 1;
+    } while (num < 10);
     return 0;
 }
 
@@ -225,5 +314,10 @@ int main() {
 //    whileLoopQuestion();
 //    doWhileLoopQuestion();
 //    forLoopQuestion();
+//    inTextQuestionOne();
+//    inTextQuestionTwo();
+//    inTextQuestionThree();
+//    inTextQuestionFour();
+//    goToStatementExample();
     return 0;
 }
