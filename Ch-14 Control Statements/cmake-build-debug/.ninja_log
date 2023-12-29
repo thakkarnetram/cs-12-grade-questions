@@ -1,0 +1,6 @@
+# ninja log v5
+1	190	7255849458940183	build.ninja	e653834ea5a9e747
+571	1664	7255847097297493	C___Projects.exe	4c7c356b35dbfea
+4	571	7255847086398890	CMakeFiles/C___Projects.dir/questions.cpp.obj	20c256a50670b466
+3	519	7255849637587481	CMakeFiles/C___Projects.dir/questions.cpp.obj	d8b7d027576b3d2f
+519	616	7255849638520698	C___Projects.exe	4c7c356b35dbfea
