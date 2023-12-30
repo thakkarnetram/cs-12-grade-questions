@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "F:\C++ Projects\Comp Sci Chapter Questions\Ch-16 Arrays" -B "F:\C++ Projects\Comp Sci Chapter Questions\Ch-16 Arrays\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: F:/C++ Projects/Comp Sci Chapter Questions/Ch-16 Arrays/cmake-build-debug

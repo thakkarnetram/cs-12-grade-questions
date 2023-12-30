@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(Ch_18_Classes___Objects_with_ConstructorsDestructors)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Ch_18_Classes___Objects_with_ConstructorsDestructors oopsQuestionsBasic.cpp)

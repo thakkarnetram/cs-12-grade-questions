@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(Ch_17__Structure__Typedef___Enumerated_Data_Type)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Ch_17__Structure__Typedef___Enumerated_Data_Type dataTypesQuestions.cpp)

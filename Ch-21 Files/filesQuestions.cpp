@@ -12,7 +12,7 @@
  * This is called input stream and requires ifstream.h header file. If both input
    stream and output stream are used in the same program then header file
    fstream.h is required*/
-/*Opening a file ( 2 ways )
+/* Opening a file ( 2 ways )
  * using constructor function of a class or using the member function open ( ) of the class. */
 int main() {
     std::cout << "Hello, World!" << std::endl;

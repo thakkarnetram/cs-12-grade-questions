@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ch_17__Structure__Typedef___Enumerated_Data_Type",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ch_17__Structure__Typedef___Enumerated_Data_Type::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ch_17__Structure__Typedef___Enumerated_Data_Type-Debug-6f4d0fb6d5cef9091323.json",
+					"name" : "Ch_17__Structure__Typedef___Enumerated_Data_Type",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/C++ Projects/Comp Sci Chapter Questions/Ch-17  Structure, Typedef & Enumerated Data Type/cmake-build-debug",
+		"source" : "F:/C++ Projects/Comp Sci Chapter Questions/Ch-17  Structure, Typedef & Enumerated Data Type"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
